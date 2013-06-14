@@ -73,6 +73,8 @@ _R ’ = rI_
 
 # Results
 
+![](./epidemiology.svg)
+
 # ORAiS
 
 # Conclusions
